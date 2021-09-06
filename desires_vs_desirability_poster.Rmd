@@ -35,7 +35,7 @@ affiliation:
     address: University of Würzburg
 main_findings:
   - "Even when including attitudes, personality traits, and other sociodemographics, sex is by far the strongest predictor of online pornography use. Age differences vary between men and women."
-logoleft_name: './img/gesis_cais.png'
+logoleft_name: './img/gesis_cais_v2.png'
 logoright_name: './img/Universität_Würzburg_Logo.png'
 logocenter_name: './img/qr-code.png'
 output: 
